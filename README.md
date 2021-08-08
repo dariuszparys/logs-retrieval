@@ -1,2 +1,3 @@
 # logs-retrieval
-Sample to call docker api endpoint via surf
+
+Sample to call docker api endpoint via hyper local
